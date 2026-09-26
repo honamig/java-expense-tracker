@@ -26,8 +26,8 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 9/25     | 5pm      | IM     | Learn basics                               | 1.5h        |
+| 9/26     | 11am     | IM     | Learn basics                               | 2h          |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
