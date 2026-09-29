@@ -28,7 +28,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 | 9/25     | 5pm      | IM     | Learn basics                               | 1.5h        |
 | 9/26     | 11am     | IM     | Learn basics                               | 2h          |
-|          |          |        |                                            |             |
+| 9/28     | 12:30pm  | IM     | Expense tracking and file persistence      | 3.5h        |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
