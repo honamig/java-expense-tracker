@@ -229,7 +229,6 @@ public class Main {
             fileScanner.close();
 
         } catch (FileNotFoundException e) {
-            // This is normal the first time the program runs.
             System.out.println(
                 "No saved expenses found. Starting a new expense list."
             );
